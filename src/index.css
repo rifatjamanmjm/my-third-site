@@ -24,13 +24,11 @@ a:hover {
 }
 
 body {
-  margin: 0;
-  display: flex;
-  place-items: center;
+
   min-width: 320px;
   min-height: 100vh;
 }
-
+vscode-file://vscode-app/c:/Users/Amirjan%20college/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
